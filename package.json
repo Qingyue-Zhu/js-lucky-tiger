@@ -1,0 +1,14 @@
+{
+  "name": "luckytiger",
+  "version": "1.0.0",
+  "description": "The Lucky Tiger Slot Machine is a JavaScript-focused web project designed to help me review and strengthen my JavaScript programming skills through practical application.",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qingyue Zhu",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
